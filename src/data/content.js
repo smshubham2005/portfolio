@@ -10,7 +10,7 @@ export const portfolioData = {
     leetcode: "https://leetcode.com/u/smshubham2005/",
     hackerrank: "#",
     codechef: "#",
-    resumeUrl: "/resume.pdf",
+    resumeUrl: "./resume.pdf",
     location: "Bangalore, India",
   },
   stats: [
